@@ -1,0 +1,122 @@
+*{
+  margin: 0;
+    padding: 0;
+}
+body{
+    background: #d4e6f1;
+    font-family: verdana;
+}
+.container{
+    width: 1200px;
+    background: white;
+    margin: 10px auto;
+}
+.superior{
+    background: #5dade2;
+    overflow: hidden;
+}
+.logo{
+    float: left;
+    width: 300px;
+    padding: 35px;
+}
+/*estilos para el menu de opciones*/
+.menu{
+    float: left;
+    padding: 50px
+}
+.opciones li{
+    float: left;
+    list-style: none;
+}
+.container{
+    width: 1200px;
+    background: white;
+    margin: 10px auto;}
+.opciones li a{
+    color: white;
+    padding: 25px;
+    text-decoration: none;
+    border: 1px solid white;
+}
+.opciones li a:hover{
+  background: #062348;
+}
+
+/*estilos para el cuerpo*/
+.cuerpo{
+    overflow: hidden;
+}
+.caja{
+    float:left;
+    width: 380px;
+    margin: 8px;
+    border: 1px solid;
+}
+    
+.subtitulo{
+    background: #5dade2;
+}
+.servicios{
+    color: white;
+    text-align-last: center;
+    padding: 15px; 0;
+}
+.efecto:hover{
+    opacity: 0.9;
+    cursor: pointer;
+}
+.contenido{
+    padding: 20px;
+    text-align: justify;
+}
+.boton{
+    padding: 15px 20px;
+    margin: 20px; 0;
+    color: white;
+    background: #062348; 
+    border-radius: 5px;
+}
+.boton:hover{
+    background: #144a91;
+    cursor: pointer;
+}
+.titulo{
+    text-align-last: center;
+    padding: 20px 0 15px 0;
+    color: #000000;
+    font-size: 35px;
+}
+/*estilos de footer*/
+.pie{
+    background: #5dade2;
+    overflow: hidden;
+}
+.izquierda{
+    float: left;
+    width: 550px;
+    padding: 20px
+}
+.derecha{
+    float: left;
+    width: 550px;
+    padding: 20px;
+}
+.abajo{
+    color: white;
+    font-size: 12px;
+    padding: 10px;
+}
+.siguenos{
+    text-align-last: center;
+padding: 15px; 0;
+}
+
+
+
+
+
+
+
+
+
